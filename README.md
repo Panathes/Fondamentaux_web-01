@@ -1,1 +1,1 @@
-Adresse IP / Ports / Schémas d’URL
+DNS et noms de domaine
